@@ -10,6 +10,20 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "EasyFixAndroidPermission",
+			"Enabled": true
+		},
+		{
+			"Name": "LostAdsAdmob",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/0f62fb48fedd4f02abcf0f3053f208b9"
+		},
+		{
+			"Name": "PaperZD",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c4b43502026047d89296cd7bffd92828"
 		}
 	]
 }
